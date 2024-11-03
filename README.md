@@ -49,4 +49,4 @@ export {
 
 ***
 
-[_Feel Free to Visit_](https://cinerentalwithlwsts.netlify.app/, '')
+[_Feel Free to Visit_](https://cinerentalwithlwsts.netlify.app/)
