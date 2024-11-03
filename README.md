@@ -45,3 +45,8 @@ export {
    - Question is why doing it `cartData: state.cartData.filter()` instead of `cartData:[...state.cartData.filter()]`, cause filter will return an array by default so the value of first on would be in an array like `cartData:[]` and the second one will return and array inside another array `cartData:[[]]` which one is unexpected.
    - `sate.cartData.filter(item => item.id !== action.payload.id)` applying filter array method on cartData array which is inside state object, we are crating a new array which one has all elements of `cartData` array except that one matches the id.
   5. If none of these action type matches, it returns the state as it is....     
+
+
+***
+
+[_Feel Free to Visit_](https://cinerentalwithlwsts.netlify.app/, '')
